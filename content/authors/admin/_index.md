@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Boyi Liu
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,8 +10,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Zhejiang Chinese Medicine University
+  url: "https://www.zcmu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
